@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: system-ui;
+}
+
+.rating {
+  margin: 50px;
+  border: 1px purple dashed;
+  padding: 55px;
+}
+
+.rating span {
+  letter-spacing: -1px;
+  font-weight: 900;
+}
+
+.gray {
+  color: gray;
+}
+
+.gold {
+  color: gold;
+  position: absolute;
+  overflow: hidden;
+}
